@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "b36e992c-783d-e811-8719-001c4281ae40",
+    "Name": "Kåren",
+    "Description": "",
+    "Address": "Sven Hultins gata, 4, 412 58 Göteborg",
+    "Geocoordinates": "57.6884088,11.974513300000012",
+    "MenuLink": "http://carboncloudrestaurantapi.azurewebsites.net/api/menuscreen/getdataday?restaurantid=5"
+  },
+  {
+    "Id": "969a6b81-783d-e811-8719-001c4281ae40",
+    "Name": "Linsen",
+    "Description": "Ganska mager salldsbuffé.",
+    "Address": "Hörsalsvägen 11, 412 58 Göteborg",
+    "Geocoordinates": "57.6877504,11.979772400000002",
+    "MenuLink": "http://carboncloudrestaurantapi.azurewebsites.net/api/menuscreen/getdataday?restaurantid=33"
+  }
+]

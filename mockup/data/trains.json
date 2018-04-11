@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "f49c784a-8e3d-e811-8719-001c4281ae40",
+    "Engineer": {
+      "Id": "7c6fdde1-863d-e811-8719-001c4281ae40",
+      "Name": "Rolfis",
+      "AvatarLink": "http://www.lib.chalmers.se/media/80170/rolfjohanssonkvadrat.jpg?anchor=center&mode=crop&width=960&height=960&rnd=131486627350000000"
+    },
+    "Passengers": [],
+    "Departure": "2018-04-11T13:24:49.137",
+    "MeetingPlace": {
+      "Id": "956dda95-773d-e811-8719-001c4281ae40",
+      "Name": "Nya människoentrén",
+      "Description": "",
+      "Address": "Hörsalsvägen 2, 41296 Göteborg",
+      "Geocoordinates": ""
+    },
+    "EatingPlace": {
+      "Id": "b36e992c-783d-e811-8719-001c4281ae40",
+      "Name": "Kåren",
+      "Description": "",
+      "Address": "Sven Hultins gata, 4, 412 58 Göteborg",
+      "Geocoordinates": "57.6884088,11.974513300000012",
+      "MenuLink": "http://carboncloudrestaurantapi.azurewebsites.net/api/menuscreen/getdataday?restaurantid=5"
+    },
+    "Comment": "Kom och ät!",
+    "TodaysMenu": "Köttbullar med mos."
+  }
+]
